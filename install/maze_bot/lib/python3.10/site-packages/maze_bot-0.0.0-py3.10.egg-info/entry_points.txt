@@ -1,0 +1,4 @@
+[console_scripts]
+subscriber_node = maze_bot.listener:main
+talker_node = maze_bot.talker:main
+
